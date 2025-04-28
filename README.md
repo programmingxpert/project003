@@ -50,27 +50,10 @@ python main.py
 
 Before running, make sure to set up your config properly:
 
-- Rename config.example.json ➡️ config.json
-
-- Fill in your Bot Token and Guild Settings
+- Fill in your Bot Token in the .env file and Guild Settings
 
 - Customize moderation thresholds and UI if you want!
 
-
-
-## Requirements
-
-- Python 3.9+
-
-- discord.py (latest version)
-
-- Basic brain cells (optional but recommended)
-
-Install requirements with:
-
-```bash
-pip install -r requirements.txt
-```
 
 
 ## Requirements
